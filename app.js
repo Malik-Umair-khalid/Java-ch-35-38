@@ -93,14 +93,53 @@
 // counting()
 
 
-// *** Q 7 *** //
+// // *** Q 7 *** //
+
+// var b = +prompt("Write the value of base")
+// var p = +prompt("Write the value of Perpendiculer")
+// function calcHyp(){
+//     function subFunction(){
+//         b = b*b
+//         p = p*p
+//         return[b, p]
+//     }
+//     alert("Hyp = " + (b + p))
+// }
+// calcHyp()
 
 
 
-// *** Q 1 *** //
+// // *** Q 9 *** //
 
-// *** Q 1 *** //
-// *** Q 1 *** //
+// var w = +prompt("Erite the width")
+// var h = +prompt("Erite the height")
+
+// function area (width, height){
+//     alert ("A = " + width * height)
+// }
+// area(5,5)
+// area(w,h)
+
+
+// // *** Q 10 *** //
+
+// function checkPalendrome(){
+//     var palendrome = prompt("Write a palendrome word")
+//     var palendromeSplit = palendrome.split("")
+//     var palendromeReverse = palendromeSplit.reverse()
+//     var palendromJoin = palendromeReverse.join("")
+//     if(palendrome === palendromJoin){
+//     alert("nice Your word is palendrome")
+// }
+// else{
+//     alert("HUH! Not a palendrome word")
+// }    
+// }
+// checkPalendrome()
+
+
+
+// *** Q 11 *** //
 // *** Q 1 *** //
 // *** Q 1 *** //
 // *** Q 1 *** //
