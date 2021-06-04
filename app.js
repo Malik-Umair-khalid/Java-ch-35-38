@@ -68,12 +68,35 @@
 
 
 
-// *** Q 5 *** //
+// // *** Q 5 *** //
+
+// function facter(){
+
+// factorial = +prompt("Write The Num");
+// for (var i = factorial - 1; i > 1; i--) {
+//    factorial *= i;
+// }
+// }
 
 
 
-// *** Q 1 *** //
-// *** Q 1 *** //
+// // *** Q 6 *** //
+// var startNum = +prompt("Enter Start Number")
+// var endNum = +prompt("Enter End Number")
+
+
+// function counting(){
+//    for(var i = startNum; i<= endNum; i++){
+//        document.write(i + '</br>')
+//    }
+// }
+// counting()
+
+
+// *** Q 7 *** //
+
+
+
 // *** Q 1 *** //
 
 // *** Q 1 *** //
