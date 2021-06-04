@@ -44,12 +44,33 @@
 // }
 // alert (calc())
 
-// *** Q 4 *** //
+// // *** Q 4 *** //
+
+
+// function sumOfSquares() {
+//      var num = +prompt("Write a number")
+//      var square = num * num
+//      console.log(square);
+// }
+// sumOfSquares()
 
 
 
-// *** Q 1 *** //
-// *** Q 1 *** //
+// // *** Q 5 *** //
+
+
+// function greeting(userInput1, userInput2){
+//     var userInput1 = prompt("enter First name")
+//     var userInput2 = prompt("enter Last Name")
+//     document.write('<h1> Hello ' + userInput1 +  userInput2 + ' How Are You ? </h1>')
+// }
+// greeting()
+
+
+
+// *** Q 5 *** //
+
+
 
 // *** Q 1 *** //
 // *** Q 1 *** //
