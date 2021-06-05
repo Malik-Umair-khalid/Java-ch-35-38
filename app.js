@@ -156,11 +156,25 @@
 // alert(capitalized)
 
 
-// *** Q 12 *** //
+// // *** Q 12 *** //
 
+// function findLongestWord(str) {
+//     var strSplit = str.split(' ');
+//     var longestWord = 0;
+//     for(var i = 0; i < strSplit.length; i++){
+//       if(strSplit[i].length > longestWord){ 
+//       longestWord = strSplit[i].length; 
+//        }
+//     }
+//     return longestWord; 
+//   }
+// var userInput = prompt("Wrte a para")
+// console.log(findLongestWord(userInput))
 
 
 // *** Q 1 *** //
+
+
 // *** Q 1 *** //
 // *** Q 1 *** //
 // *** Q 1 *** //
