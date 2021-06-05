@@ -172,14 +172,35 @@
 // console.log(findLongestWord(userInput))
 
 
-// *** Q 1 *** //
+// *** Q 13 *** //
 
+// function letterConuter(string, letter){
+//  var splitted = string.split('')
+// //  console.log(splitted)
+// for(var i = 0; i <= string.length; i++){
+//     if(splitted[i] === letter){
+//         console.log(letter)
+//     }
+// }
+// }
+// var userInput = prompt("Write the function")
+// var userInputLetter = prompt("Write the letter")
+// letterConuter(userInput, userInputLetter)
 
-// *** Q 1 *** //
-// *** Q 1 *** //
-// *** Q 1 *** //
-// *** Q 1 *** //
-// *** Q 1 *** //
-// *** Q 1 *** //
+// // *** Q 14 *** //
 
-// *** Q 1 *** //
+// // function calcCircumference(radius){
+// // var circumference = 2 * 3.142 * radius
+// // alert("the curcumference = " + circumference)
+// // }
+// // var userInput = +prompt("Write the radius if Your cirlce")
+// // calcCircumference(userInput)
+
+// function calcArea(radius){
+//     var area =  3.142 * radius
+//     alert("the Area = " + area)
+//     }
+//     var userInputArea = +prompt("Write the radius if Your cirlce")
+//     calcArea(userInput)
+    
+
