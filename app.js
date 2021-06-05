@@ -139,8 +139,27 @@
 
 
 
-// *** Q 11 *** //
-// *** Q 1 *** //
+// // *** Q 11 *** //
+
+// function capSentence(text) {
+//     var wordsArray = text.toLowerCase().split(' ')
+//     var capsArray = []
+
+//     wordsArray.forEach(word => {
+//         capsArray.push(word[0].toUpperCase() + word.slice(1))
+//     });
+
+//     return capsArray.join(' ')
+// }
+// var userInput = prompt("")
+// var capitalized = capSentence(userInput)
+// alert(capitalized)
+
+
+// *** Q 12 *** //
+
+
+
 // *** Q 1 *** //
 // *** Q 1 *** //
 // *** Q 1 *** //
